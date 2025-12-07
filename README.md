@@ -1,7 +1,7 @@
 
 # Social Pulse
 
-**Social Pulse** is my full-stack social media platform built on the MERN stack. It delivers the core experiences I wanted from a modern community: create posts with captions and images, react to what friends share, discover new people to follow, and keep profiles up to date.
+**Social Pulse** is a full-stack social media platform by Prince Dubey. It delivers the core experiences wanted from a modern community: create posts with captions and images, react to what friends share, discover new people to follow, and keep profiles up to date.
 
 ---
 
@@ -135,5 +135,6 @@ Add your own captures under `docs/screenshots` and reference them here, e.g.
 
 ## License
 
-This project is released under the MIT License. Feel free to fork, extend, and ship your own social platform on top of it. If you build something cool, let me know! 😄
+This project is released under the MIT License.
+    
     
